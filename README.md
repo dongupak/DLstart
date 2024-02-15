@@ -26,11 +26,15 @@
 ### 함께 보면 좋은 책
 책을 읽은 후 파이썬과 데이터 다루기, 머신러닝에 관련된 저자들의 책을 함께 보면 더 좋습니다. 
 
+* 누구나 쉽게 배우는 인공지능 스타트, 박동규, 인피니티북스 출판사 (2022)
+  * [[YES24]](http://www.yes24.com/Product/Goods/110820505)
+
 * (따라하며 배우는) 파이썬과 데이터 과학, 천인국, 박동규, 강영민, 생능출판사 (2020)
   * [[YES24]](http://www.yes24.com/Product/Goods/96555988), [[인터파크]](http://book.interpark.com/product/BookDisplay.do?_method=detail&sc.shopNo=0000400000&sc.prdNo=345271510&sc.saNo=003002001&bid1=search&bid2=product&bid3=title&bid4=001), [[교보문고]](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9788970504773&orderClick=LEa&Kc=) 
 * 으뜸 머신러닝, 강영민, 박동규, 김성수, 생능출판사 (2021)
   * [[YES24]](http://www.yes24.com/Product/Goods/102577953), [[인터파크]](http://book.interpark.com/product/BookDisplay.do?_method=detail&sc.shopNo=0000400000&sc.prdNo=352099030&sc.saNo=003002001&bid1=search&bid2=product&bid3=title&bid4=001), [[교보문고]](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9788970504919&orderClick=LEa&Kc=)
 <p align="center">
+  <img src="./AIstart_book_cover.jpeg" width=200px>
   <img src="https://github.com/dongupak/Prime-Python/blob/master/github-image/Py_Data_Sci_book.jpeg" width=200px>
   <img src="https://github.com/dongupak/Prime-Python/blob/master/github-image/Prime_ML.jpg" width=200px>
 </p>
@@ -65,10 +69,6 @@
 ## 기여하실 분
 
 이 코드에 이상이 있거나 기여를 하실 분은 Fork후에 Request를 주시기 바랍니다.
-
-## 버저닝
-
-이 저장소는 으뜸 파이썬 1판의 저장소로 2판, 3판에 따라 각각 다른 버전이 나타날 수 있습니다.
 
 ## 저자
 열린 마음으로 독자여러분의 의견을 받습니다. 책에 관련된 문의는 언제든 아래 이메일로 보내 주십시오.

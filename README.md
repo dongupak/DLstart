@@ -1,6 +1,6 @@
 # 인피니티 북스 "누구나 쉽게 배우는 딥러닝 스타트" 저장소
 <p align="center">
-  <img src="./DLstart_book_cover.png" width=450px>
+  <img src="./DLstart_book_cover.png" width=350px>
 </p>
 
 * 온라인 구매 링크 : [[YES24]](http://www.yes24.com/Product/Goods/89140722)

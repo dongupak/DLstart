@@ -1,3 +1,3 @@
 # "누구나 쉽게 배우는 딥러닝 스타트" 정오표 자료
 ## "누구나 쉽게 배우는 딥러닝 스타트" 1판 1쇄 정오표 2025. 8월
-* [누구나 쉽게 배우는 딥러닝 스타트 1쇄 정오표 PDF(https://github.com/dongupak/DLstart/blob/main/errata/누구나쉽게배우는딥러닝스타트1쇄_정오표.pdf)
+* [누구나 쉽게 배우는 딥러닝 스타트 1쇄 정오표 PDF([https://github.com/dongupak/DLstart/blob/main/errata/누구나쉽게배우는딥러닝스타트1쇄_정오표.pdf](https://github.com/dongupak/DLstart/blob/main/errata/%E1%84%82%E1%85%AE%E1%84%80%E1%85%AE%E1%84%82%E1%85%A1%E1%84%89%E1%85%B1%E1%86%B8%E1%84%80%E1%85%A6%E1%84%87%E1%85%A2%E1%84%8B%E1%85%AE%E1%84%82%E1%85%B3%E1%86%AB%E1%84%83%E1%85%B5%E1%86%B8%E1%84%85%E1%85%A5%E1%84%82%E1%85%B5%E1%86%BC%E1%84%89%E1%85%B3%E1%84%90%E1%85%A1%E1%84%90%E1%85%B3_1%E1%84%89%E1%85%AB_%20%E1%84%8C%E1%85%A5%E1%86%BC%E1%84%8B%E1%85%A9%E1%84%91%E1%85%AD.pdf))
